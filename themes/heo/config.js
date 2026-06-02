@@ -8,8 +8,8 @@ const CONFIG = {
 
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
-    { title: '欢迎来到我的博客', url: 'https://blog.tangly1024.com' },
-    { title: '访问文档中心获取更多帮助', url: 'https://docs.tangly1024.com' }
+    { title: '本站点主要用于装修进度实时跟踪', url: 'https://aqufu.com' },
+    { title: '进度状态点我查看', url: 'https://aqufu.com' }
   ],
 
   // 英雄区左右侧组件颠倒位置
