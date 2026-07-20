@@ -76,8 +76,8 @@ const CONFIG = {
   // 用户技能图标
   HEO_GROUP_ICONS: [
     {
-      title_1: 'AfterEffect',
-      img_1: 'https://pic1.imgdb.cn/i/033sdCfmvcd4qgLiXLnFWI.png',
+      title_1: 'MIJIA',
+      img_1: 'https://pic1.imgdb.cn/i/033sdSAdwbKCBfcpxqA5UI.jpg',
       color_1: '#989bf8',
       title_2: 'Sketch',
       img_2: '/images/heo/2023e0ded7b724a39f12d59c3dc8fbdc7cbe074202.webp',
