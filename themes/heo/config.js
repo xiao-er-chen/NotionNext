@@ -79,24 +79,24 @@ const CONFIG = {
       title_1: 'MIJIA',
       img_1: 'https://pic1.imgdb.cn/i/033sdSAdwbKCBfcpxqA5UI.jpg',
       color_1: '#989bf8',
-      title_2: 'Sketch',
-      img_2: '/images/heo/2023e0ded7b724a39f12d59c3dc8fbdc7cbe074202.webp',
+      title_2: 'SOGAL',
+      img_2: 'https://pic1.imgdb.cn/i/033sdXOZs4WSBFkUD7eeRI.jpg',
       color_2: '#ffffff'
     },
     {
-      title_1: 'Docker',
-      img_1: '/images/heo/20231108a540b2862d26f8850172e4ea58ed075102.webp',
+      title_1: 'Yeelight',
+      img_1: 'https://pic1.imgdb.cn/i/033sdjePrDrmALnNcLuSsW.jpg',
       color_1: '#57b6e6',
-      title_2: 'Photoshop',
-      img_2: '/images/heo/2023e4058a91608ea41751c4f102b131f267075902.webp',
+      title_2: 'nvc',
+      img_2: 'https://pic1.imgdb.cn/i/033sdmV4vBviCW6Ytiro2k.jpg',
       color_2: '#4082c3'
     },
     {
-      title_1: 'FinalCutPro',
-      img_1: '/images/heo/20233e777652412247dd57fd9b48cf997c01070702.webp',
+      title_1: 'Huangpai',
+      img_1: 'https://pic1.imgdb.cn/i/033sdxvzQv6dvf1BDil0It.jpg',
       color_1: '#ffffff',
-      title_2: 'Python',
-      img_2: '/images/heo/20235c0731cd4c0c95fc136a8db961fdf963071502.webp',
+      title_2: 'Midea',
+      img_2: 'https://pic1.imgdb.cn/i/033se11CTmSx17ByKI76Md.jpg',
       color_2: '#ffffff'
     },
     {
