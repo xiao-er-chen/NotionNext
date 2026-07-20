@@ -92,52 +92,52 @@ const CONFIG = {
       color_2: '#4082c3'
     },
     {
-      title_1: 'Huangpai',
-      img_1: 'https://pic1.imgdb.cn/i/033sdxvzQv6dvf1BDil0It.jpg',
+      title_1: 'AutoCAD',
+      img_1: 'https://pic1.imgdb.cn/i/033sePzajlhAHRoId3AAuY.png',
       color_1: '#ffffff',
       title_2: 'Midea',
       img_2: 'https://pic1.imgdb.cn/i/033se11CTmSx17ByKI76Md.jpg',
       color_2: '#ffffff'
     },
     {
-      title_1: 'Swift',
-      img_1: '/images/heo/202328bbee0b314297917b327df4a704db5c072402.webp',
+      title_1: 'huangpai',
+      img_1: 'https://pic1.imgdb.cn/i/033sdxvzQv6dvf1BDil0It.jpg',
       color_1: '#eb6840',
-      title_2: 'Principle',
-      img_2: '/images/heo/2023f76570d2770c8e84801f7e107cd911b5073202.webp',
+      title_2: 'Sketchup',
+      img_2: 'https://pic1.imgdb.cn/i/033seXJbU5fkRvqcQWqnuX.png',
       color_2: '#8f55ba'
     },
     {
-      title_1: 'illustrator',
-      img_1: '/images/heo/20237359d71b45ab77829cee5972e36f8c30073902.webp',
+      title_1: 'Arrow',
+      img_1: 'https://pic1.imgdb.cn/i/033seeQsFTDyLSPaB3G1y4.png',
       color_1: '#f29e39',
-      title_2: 'CSS3',
-      img_2: '/images/heo/20237c548846044a20dad68a13c0f0e1502f074602.webp',
+      title_2: 'Roborock',
+      img_2: 'https://pic1.imgdb.cn/i/033sekBA1ZRwSPEBBaAPeO.png',
       color_2: '#2c51db'
     },
     {
-      title_1: 'JS',
-      img_1: '/images/heo/2023786e7fc488f453d5fb2be760c96185c0075502.webp',
+      title_1: 'LittleSwan',
+      img_1: 'https://pic1.imgdb.cn/i/033sepr7QnYL2f74kVuQys.png',
       color_1: '#f7cb4f',
-      title_2: 'HTML',
+      title_2: 'rifeng',
       img_2: '/images/heo/202372b4d760fd8a497d442140c295655426070302.webp',
       color_2: '#e9572b'
     },
     {
-      title_1: 'Git',
-      img_1: '/images/heo/2023ffa5707c4e25b6beb3e6a3d286ede4c6071102.webp',
+      title_1: 'BaoSheng',
+      img_1: 'https://pic1.imgdb.cn/i/033sfFFwvG1tLm6p7pQBxi.png',
       color_1: '#df5b40',
-      title_2: 'Rhino',
-      img_2: '/images/heo/20231ca53fa0b09a3ff1df89acd7515e9516173302.webp',
+      title_2: 'JoMoo',
+      img_2: 'https://pic1.imgdb.cn/i/033sfLUepoeAcJ7DriNMcq.png',
       color_2: '#1f1f1f'
     }
   ],
 
   HEO_SOCIAL_CARD: true, // 是否显示右侧，点击加入社群按钮
-  HEO_SOCIAL_CARD_TITLE_1: '交流频道',
-  HEO_SOCIAL_CARD_TITLE_2: '加入我们的社群讨论分享',
-  HEO_SOCIAL_CARD_TITLE_3: '点击加入社群',
-  HEO_SOCIAL_CARD_URL: 'https://docs.tangly1024.com/article/how-to-question',
+  HEO_SOCIAL_CARD_TITLE_1: '装修进度',
+  HEO_SOCIAL_CARD_TITLE_2: '装修进度实时跟踪',
+  HEO_SOCIAL_CARD_TITLE_3: '点击查看装修进度',
+  HEO_SOCIAL_CARD_URL: '',
 
   // 底部统计面板文案
   HEO_POST_COUNT_TITLE: '文章数:',
