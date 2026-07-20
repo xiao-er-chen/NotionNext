@@ -36,8 +36,8 @@ const CONFIG = {
   HEO_HERO_TITLE_2: '全生命周期',
   HEO_HERO_TITLE_3: '每一步都留有痕迹',
   HEO_HERO_TITLE_4: '新版上线',
-  HEO_HERO_TITLE_5: 'NotionNext4.0 轻松定制主题',
-  HEO_HERO_TITLE_LINK: 'https://tangly1024.com',
+  HEO_HERO_TITLE_5: '',
+  HEO_HERO_TITLE_LINK: '',
   // 英雄区遮罩文字
   HEO_HERO_COVER_TITLE: '随便逛逛',
 
